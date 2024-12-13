@@ -1,0 +1,138 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#createuser{
+    text-align: center;
+    justify-content: center;
+    border: 4px solid black;
+    padding-top: 160px;
+    font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bolder;
+ height: 695px;
+}
+#createuser{
+    background-image: url(./registration-online-membership-network-internet-business-technology-concept-104512007.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    opacity: 0.9;
+}
+#submit{
+    background-color: beige;
+    padding: 6px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;  
+}
+#adduser{
+  margin-left:20px ;
+  margin-top: 20px;
+  background-color:beige ;
+  padding: 6px;
+  font-size: 17px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bolder; 
+}
+#studentdetails{
+    background-image: url(./back-school-doodle-style-background-education-hand-drawn-objects-symbols-banner_43029-1963.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    opacity: 0.98;
+}
+#studentdetails{
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+   font-weight: 500;
+padding: 20px;
+font-size: larger;
+}
+tbody{
+ font-size: large;
+ font-weight: 500;
+ text-align: center;
+}
+#edit{
+    background-color: burlywood;
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+   font-weight: 500;
+   font-size: medium;
+}
+#read{
+    background-color: coral;
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+   font-weight: 500;
+   font-size: medium;
+}
+#delete{
+    background-color:red;
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+   font-weight: 500;
+   font-size: medium;
+}
+#edituser{
+    text-align: center;
+    justify-content: center;
+    border: 4px solid black;
+    padding-top: 160px;
+    font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bolder;
+ height: 695px;
+ background-image: url(./Student-Writing-Image-1-1020x500-1-696x341.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ opacity: 0.95;
+}
+ #edit-button {
+    background-color: beige;
+ padding: 6px;
+ font-size: 17px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-style: italic;
+ font-weight: bolder;  
+}
+#readstudents{
+    text-align: center;
+    justify-content: center;
+    border: 4px solid black;
+    padding-top: 160px;
+    font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bolder;
+ height: 695px;
+ background-image: url(./a0c220e2d96296ab8560602e62db23bd.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ opacity: 0.95; 
+}
+#homebutton{
+    background-color: beige;
+    padding: 6px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;  
+
+}
+#editbutton{
+    background-color: beige;
+    padding: 6px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;  
+}
+
+

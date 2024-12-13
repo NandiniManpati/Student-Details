@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nandini",
+      "email": "manpatinandini709@gmail.com",
+      "degree": "B.TECH",
+      "stream": "CSE",
+      "percentage": "70%",
+      "contact": 9347472273
+    },
+    {
+      "id": "2",
+      "name": "nandu",
+      "email": "manpatinandu709@gmail.com",
+      "degree": "B.TECH",
+      "stream": "ECE",
+      "percentage": "70%",
+      "contact": 9347472272
+    },
+    {
+      "id": "6ca9",
+      "name": "Naveen",
+      "email": "naveen@gmail.com",
+      "contact": "809028174",
+      "degree": "b.Tech",
+      "stream": "Cse",
+      "percentage": "65%"
+    },
+    {
+      "id": "71f4",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "contact": "9834562233",
+      "degree": "B-Tech",
+      "stream": "Civil",
+      "percentage": "60%"
+    },
+    {
+      "id": "7f50",
+      "name": "keerthi",
+      "email": "keerthi@gmail.com",
+      "contact": "9834562233",
+      "degree": "B.E",
+      "stream": "EEE",
+      "percentage": "70%"
+    },
+    {
+      "id": "a535",
+      "name": "laxmi",
+      "email": "laxmi@gamil.com",
+      "contact": "2345678901",
+      "degree": "Degree",
+      "stream": "B.Com",
+      "percentage": "75%"
+    },
+    {
+      "id": "9c9e",
+      "name": "Srinu",
+      "email": "srinu@gmail.com",
+      "contact": "4567890321",
+      "degree": "Degree",
+      "stream": "BBA",
+      "percentage": "65%"
+    },
+    {
+      "id": "7793",
+      "name": "Nari",
+      "email": "nari@gamil.com",
+      "contact": "9876543210",
+      "degree": "M-Tech",
+      "stream": "CSE",
+      "percentage": "60%"
+    },
+    {
+      "id": "702c",
+      "name": "Naveen",
+      "email": "naveen@gmail.com",
+      "contact": "9834562233",
+      "degree": "Degree",
+      "stream": "bsc",
+      "percentage": "68%"
+    }
+  ]
+}
